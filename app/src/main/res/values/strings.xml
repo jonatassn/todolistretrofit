@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">TaskTrab</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="share_message">Yay! I just completed the task: </string>
+    <string name="empty_tasky_title_error_message">Title required to save a Tasky</string>
+</resources>

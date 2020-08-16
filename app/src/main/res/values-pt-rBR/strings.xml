@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskTrab</string>
+    <string name="action_settings">Preferências</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="share_message">"Oba! Eu acabei de completar: "</string>
+    <string name="empty_tasky_title_error_message">Insira o título para salvar a Tasky</string>
+</resources>

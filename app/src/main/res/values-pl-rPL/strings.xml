@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskTrab</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title">Tytuł</string>
+    <string name="description">Opis</string>
+    <string name="share_message">"Tak! Właśnie ukończyłem zadanie: "</string>
+    <string name="empty_tasky_title_error_message">"Tytuł wymagany, aby zapisać zadanie "</string>
+</resources>
